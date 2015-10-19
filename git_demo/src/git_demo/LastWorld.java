@@ -1,5 +1,5 @@
 package git_demo;
 
-public class SayWorld {
+public class LastWorld {
 
 }
